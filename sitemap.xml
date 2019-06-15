@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sempr.github.io/running/</loc>
+    <lastmod>2019-06-15T23:59:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sempr.github.io/running/posts/</loc>
+    <lastmod>2019-06-15T23:59:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sempr.github.io/running/tags/</loc>
+    <lastmod>2019-06-15T23:59:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sempr.github.io/running/tags/coding/</loc>
+    <lastmod>2019-06-15T23:59:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sempr.github.io/running/tags/running/</loc>
+    <lastmod>2019-06-15T23:59:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sempr.github.io/running/posts/another-new-start/</loc>
+    <lastmod>2019-06-15T23:59:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sempr.github.io/running/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

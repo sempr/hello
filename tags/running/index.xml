@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>running on A Running Coder</title>
+    <link>https://sempr.github.io/running/tags/running/</link>
+    <description>Recent content in running on A Running Coder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Jun 2019 23:59:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://sempr.github.io/running/tags/running/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>另一个新的开始</title>
+      <link>https://sempr.github.io/running/posts/another-new-start/</link>
+      <pubDate>Sat, 15 Jun 2019 23:59:47 +0800</pubDate>
+      
+      <guid>https://sempr.github.io/running/posts/another-new-start/</guid>
+      <description>看了一下咕咚的跑步记录，总里程停留在988公里已经很久了，离破千就差了一点点。上次跑超过五公里还是去年4月份的扬州半程马拉松，因为疏于锻炼创下了个人参加正式赛以来第一次没有跑进2小时，外加也体验过了级别最高的国际金标的马拉松，后面就跑得更少了。这一年来身体状况一直在持续下滑，小病不断，还是得需要一个好的身体才能撑得起一个家庭顶梁柱的责任。
+今天开始跑起来了，5公里，沿着小区西侧的道路，往返5次，刚好5公里，用时28分04秒，已经比之前的PB慢了整整6分钟了，需要加油补回来。
+这段时间一直在关注和IndieHacker相关的信息，自己内心深处也一直有着想做些事情，可以帮助到更多的人(顺便从中获利)的想法，也给自己立一个flag，养成一个好的习惯，每天早起两小时，安静的做一些事情。</description>
+    </item>
+    
+  </channel>
+</rss>
